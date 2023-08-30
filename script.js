@@ -1,4 +1,4 @@
-const accessKey = "-V9CNDNoOFcYtd24aEXPmHycleA_XyDlgdMAaW_zNwA"
+const accessKey = UNSPLASH_ACCESS_KEY
 //. Selecting form, input box, result container, and show more button elements by their IDs from the DOM
 
 const searchForm = document.getElementById("search-form");
