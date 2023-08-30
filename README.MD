@@ -56,4 +56,4 @@ Feel free to fork this repository and submit pull requests. You can also report 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Mozilla Public License. See the [LICENSE](LICENSE) file for details.
