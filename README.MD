@@ -4,8 +4,6 @@
 
 This is a simple image search engine that uses the Unsplash API to fetch and display images based on the user's search query. The project is built using HTML, CSS, and vanilla JavaScript.
 
-![Screenshot](screenshot.png) <!-- You can add a screenshot of your app here -->
-
 ## Features
 
 - Search for images using keywords
